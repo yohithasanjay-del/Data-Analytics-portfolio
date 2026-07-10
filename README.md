@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Hi, I'm Yohitha Sanjay, an aspiring Data Analyst passionate about transforming data into meaningful insights.
+Hi, I'm Chandra Kumar Yohitha, an aspiring Data Analyst passionate about transforming data into meaningful insights.
 
 ## Skills
 - SQL
